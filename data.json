@@ -1,0 +1,789 @@
+{
+    "userCategories": [
+        "Size Özel",
+        "Yapı Market & Tamirat > Tamir, Tadilat Gereçleri",
+        "Ev, Dekorasyon, Bahçe > Mobilya",
+        "Kozmetik & Kişisel Bakım > Sağlık, Medikal",
+        "Bilgisayar, Tablet > Dizüstü Bilgisayar (Laptop)",
+        "Beyaz Eşya & Küçük Ev Aletleri > Isıtma, Soğutma Sistemi"
+    ],
+    "recommendedProducts": {
+        "Size Özel": [
+            {
+                "name": "Pro Cat Plus x ST3250 Li Metal Şanzımanlı Çift Akülü Şarjlı Vidalama Matkap 2 Yıl Garantili",
+                "image": "https://mcdn01.gittigidiyor.net/64425/tn50/644256605_tn50_0.jpg",
+                "priceText": "159,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Violet 90*150 Rattan Plastik Trend Lüx Camlı Masa Takımı 6 Sandalyeli",
+                "image": "https://mcdn01.gittigidiyor.net/63989/tn50/639891206_tn50_0.jpg",
+                "priceText": "1.859,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Evony Elastik Kulaklı 3 Katlı Cerrahi Maske 250 Adet",
+                "image": "https://mcdn01.gittigidiyor.net/65048/tn50/650481341_tn50_0.jpg",
+                "priceText": "79,99 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Monster Abra A5 V16.6.5 Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/63891/tn50/638915004_tn50_0.jpg",
+                "priceText": "7.499,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Raks Eco Jasper Vantilatör",
+                "image": "https://mcdn01.gittigidiyor.net/57149/tn50/571494451_tn50_0.jpg",
+                "priceText": "229,00 TL",
+
+                "shippingFee": "FREE"
+
+            },
+            {
+                "name": "Pro Cat Plus ST3250LI 27 Pcs Setli Metal Şanjumanlı Çift Akülü Darbeli Vidalama Matkap",
+                "image": "https://mcdn01.gittigidiyor.net/64433/tn50/644338228_tn50_0.jpg",
+                "priceText": "194,90 TL",
+
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "ABETE-4 KAPILI 2 ÇEKMECELİ CEVİZ-KREM GARDROP",
+                "image": "https://mcdn01.gittigidiyor.net/69925/tn50/699258444_tn50_0.jpg",
+                "priceText": "549,00 TL",
+
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Evony Black Elastik Kulaklı Siyah Maske 250 Adet",
+                "image": "https://mcdn01.gittigidiyor.net/66654/tn50/666546849_tn50_0.jpg",
+                "priceText": "79,99 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "MSI GF75 Thin 10SC-003XTR Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/68342/tn50/683423941_tn50_0.jpg",
+                "priceText": "12.744,00 TL",
+
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Windsor WST 65 E TERMOSİFON",
+                "image": "https://mcdn01.gittigidiyor.net/68054/tn50/680549645_tn50_0.jpg",
+                "priceText": "849,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "ProJcb Plus X-TORQ JSR 3650 Lİ SJS Çift Metal Şanzuman Çift Akülü Şarjlı Matkap Set Hediyeli",
+                "image": "https://mcdn01.gittigidiyor.net/60945/tn50/609452818_tn50_1.jpg",
+                "priceText": "199,90 TL",
+
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "SİNEM 4 KAPI 2 ÇEKMECELİ GARDIROP",
+                "image": "https://mcdn01.gittigidiyor.net/65114/tn50/651149325_tn50_0.jpg",
+                "priceText": "839,90 TL",
+
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "F. Bosch Clever Tansiyon Aleti",
+                "image": "https://mcdn01.gittigidiyor.net/59807/tn50/598076310_tn50_0.jpg",
+                "priceText": "126,39 TL",
+
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Asus D515DA-BR608 AMD Ryzen 3 3250U 4GB 256GB SSD FDOS 15.6 inc Taşınabilir Bilgisayar",
+                "image": "https://mcdn01.gittigidiyor.net/70356/tn50/703564485_tn50_0.jpg",
+                "priceText": "3.699,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Rubenis RBA 05 Vantilatör",
+                "image": "https://mcdn01.gittigidiyor.net/66498/tn50/664980893_tn50_0.jpg",
+                "priceText": "148,00 TL",
+
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Bosch X-Line 38 Parça Aksesuar Set - 2607011432",
+                "image": "https://mcdn01.gittigidiyor.net/68404/tn50/684043005_tn50_0.jpg",
+                "priceText": "94,90 TL",
+
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Heyner Bamboo 90x190 cm Yatak",
+                "image": "https://mcdn01.gittigidiyor.net/40505/tn50/405050410_tn50_0.jpg",
+                "priceText": "399,90 TL",
+                "shippingFee": "FREE"
+
+            },
+            {
+                "name": "Omron M2 Basic Tansiyon Aleti",
+                "image": "https://mcdn01.gittigidiyor.net/64007/tn50/640070115_tn50_0.jpg",
+                "priceText": "247,35 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "MSI Modern 14 B10MW-271XTR Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/67229/tn50/672296793_tn50_0.jpg",
+                "priceText": "8.462,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Altus ALK 1230 Klima",
+                "image": "https://mcdn01.gittigidiyor.net/70354/tn50/703540699_tn50_0.jpg",
+                "priceText": "3.695,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "ProJcb Plus MMA 200 AMP Pro Dijital Göstergeli İnvertör Kaynak Makinası",
+                "image": "https://mcdn01.gittigidiyor.net/67036/tn50/670363965_tn50_0.jpg",
+                "priceText": "939,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "ABETE-3KAPILI 2 ÇEKMECELİ CEVİZ-KREM GARDROP",
+                "image": "https://mcdn01.gittigidiyor.net/69925/tn50/699258575_tn50_0.jpg",
+                "priceText": "459,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Omron M2 Tansiyon Aleti",
+                "image": "https://mcdn01.gittigidiyor.net/62912/tn50/629126188_tn50_0.jpg",
+                "priceText": "298,96 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Monster Abra A7 V12.4.1 Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/62603/tn50/626039615_tn50_0.jpg",
+                "priceText": "9.399,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Baymak Lambert Attivo 24 LN Kombi",
+                "image": "https://mcdn01.gittigidiyor.net/59238/tn50/592383220_tn50_0.jpg",
+                "priceText": "3.849,00 TL",
+                "shippingFee": "FREE"
+            }
+        ],
+        "Yapı Market & Tamirat > Tamir, Tadilat Gereçleri": [
+            {
+                "name": "Pro Cat Plus x ST3250 Li Metal Şanzımanlı Çift Akülü Şarjlı Vidalama Matkap 2 Yıl Garantili",
+                "image": "https://mcdn01.gittigidiyor.net/64425/tn50/644256605_tn50_0.jpg",
+                "priceText": "159,90 TL",
+
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Pro Cat Plus ST3250LI 27 Pcs Setli Metal Şanjumanlı Çift Akülü Darbeli Vidalama Matkap",
+                "image": "https://mcdn01.gittigidiyor.net/64433/tn50/644338228_tn50_0.jpg",
+                "priceText": "194,90 TL",
+
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "ProJcb Plus X-TORQ JSR 3650 Lİ SJS Çift Metal Şanzuman Çift Akülü Şarjlı Matkap Set Hediyeli",
+                "image": "https://mcdn01.gittigidiyor.net/60945/tn50/609452818_tn50_1.jpg",
+                "priceText": "199,90 TL",
+
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Bosch X-Line 38 Parça Aksesuar Set - 2607011432",
+                "image": "https://mcdn01.gittigidiyor.net/68404/tn50/684043005_tn50_0.jpg",
+                "priceText": "94,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "ProJcb Plus MMA 200 AMP Pro Dijital Göstergeli İnvertör Kaynak Makinası",
+                "image": "https://mcdn01.gittigidiyor.net/67036/tn50/670363965_tn50_0.jpg",
+                "priceText": "939,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "ASSUR Pro Metal Şanzıman 3600 5.9 Joule Profesyonel Kırıcı Delici 5 Parça Uç",
+                "image": "https://mcdn01.gittigidiyor.net/69036/tn50/690368636_tn50_0.jpg",
+                "priceText": "301,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Bosch Professional GSB 120-LI 2 AH Akülü Darbeli Delme Vidalama + Aksesuar seti - 06019G8102",
+                "image": "https://mcdn01.gittigidiyor.net/58509/tn50/585090237_tn50_0.jpg",
+                "priceText": "875,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Bosch 46 Parça Tornavida Seti - 2607019504",
+                "image": "https://mcdn01.gittigidiyor.net/70196/tn50/701961514_tn50_0.jpg",
+                "priceText": "104,50 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Bosch Easyimpact 550 Darbeli Matkap + Bosch Çakı Hediyeli !!!",
+                "image": "https://mcdn01.gittigidiyor.net/65984/tn50/659843840_tn50_0.jpg",
+                "priceText": "364,50 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "ASSUR ASR-2450 Li-On Çift Akülü Çantalı Şarjlı Darbesiz Matkap 27 Parça Set",
+                "image": "https://mcdn01.gittigidiyor.net/53673/tn50/536738775_tn50_0.jpg",
+                "priceText": "179,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Bosch Easyimpact 570 Darbeli Matkap + Sırt Çantası Hediyeli",
+                "image": "https://mcdn01.gittigidiyor.net/70133/tn50/701339411_tn50_1.jpg",
+                "priceText": "425,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "ProJcb Plus X-TORQ JSR 3250 Lİ + 27 Pcs +7-19 Soket Çift Akülü Metal Şanzımanlı Şarjlı Matkap",
+                "image": "https://mcdn01.gittigidiyor.net/61283/tn50/612834336_tn50_0.jpg",
+                "priceText": "249,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Bosch GWS 750-125 Mavi Taşlama Makinesi",
+                "image": "https://mcdn01.gittigidiyor.net/67212/tn50/672127828_tn50_0.jpg",
+                "priceText": "479,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Bosch Professional GSB 550 Darbeli Matkap",
+                "image": "https://mcdn01.gittigidiyor.net/64635/tn50/646357147_tn50_0.jpg",
+                "priceText": "389,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Stanley STDC18LHBK-TR 18Volt/2,0Ah Li-ion Çift Akülü Profesyonel Darbeli Matkap",
+                "image": "https://mcdn01.gittigidiyor.net/53269/tn50/532693511_tn50_0.jpg",
+                "priceText": "1.210,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Black+Decker BEH710 710 Watt 13 MM Darbeli Matkap",
+                "image": "https://mcdn01.gittigidiyor.net/67867/tn50/678671274_tn50_0.jpg",
+                "priceText": "309,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "ASSUR PROFESYONEL DARBELİ Lİ-ON ÇİFT BATARYALI ŞARJLI 24 PARÇA UÇ SETLİ MATKAP",
+                "image": "https://mcdn01.gittigidiyor.net/59318/tn50/593185615_tn50_0.jpg",
+                "priceText": "184,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Askaynak İnverter 205 Süper Kaynak Makinası",
+                "image": "https://mcdn01.gittigidiyor.net/53223/tn50/532235355_tn50_0.jpg",
+                "priceText": "1.794,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "BOSCH El Zımbası Ht 14 - 0603038001",
+                "image": "https://mcdn01.gittigidiyor.net/61617/tn50/616171373_tn50_0.jpg",
+                "priceText": "159,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Bosch S 1211 K Et-Kemik Testere Bıçağı",
+                "image": "https://mcdn01.gittigidiyor.net/56814/tn50/568140288_tn50_0.jpg",
+                "priceText": "60,00 TL",
+                "shippingFee": "FREE"
+            }
+        ],
+        "Ev, Dekorasyon, Bahçe > Mobilya": [
+            {
+                "name": "Violet 90*150 Rattan Plastik Trend Lüx Camlı Masa Takımı 6 Sandalyeli",
+                "image": "https://mcdn01.gittigidiyor.net/63989/tn50/639891206_tn50_0.jpg",
+                "priceText": "1.859,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "ABETE-4 KAPILI 2 ÇEKMECELİ CEVİZ-KREM GARDROP",
+                "image": "https://mcdn01.gittigidiyor.net/69925/tn50/699258444_tn50_0.jpg",
+                "priceText": "549,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "SİNEM 4 KAPI 2 ÇEKMECELİ GARDIROP",
+                "image": "https://mcdn01.gittigidiyor.net/65114/tn50/651149325_tn50_0.jpg",
+                "priceText": "839,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Heyner Bamboo 90x190 cm Yatak",
+                "image": "https://mcdn01.gittigidiyor.net/40505/tn50/405050410_tn50_0.jpg",
+                "priceText": "399,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "ABETE-3KAPILI 2 ÇEKMECELİ CEVİZ-KREM GARDROP",
+                "image": "https://mcdn01.gittigidiyor.net/69925/tn50/699258575_tn50_0.jpg",
+                "priceText": "459,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "OckGarden's Metal Salıncak Bahçe Teras Balkon Salıncağı",
+                "image": "https://mcdn01.gittigidiyor.net/65019/tn50/650190099_tn50_0.jpg",
+                "priceText": "1.099,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "PORMET Çift Yandan Raflı Bez Dolap - Siyah",
+                "image": "https://mcdn01.gittigidiyor.net/61192/tn50/611925118_tn50_0.jpg",
+                "priceText": "123,94 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Aym Bilgisayar Ofis Çalışma Sandalyesi 6 Renk Seçeneği",
+                "image": "https://mcdn01.gittigidiyor.net/66560/tn50/665601128_tn50_0.jpg",
+                "priceText": "164,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "NEMSA METAL - 4'LÜ METAL AYAKKABILIK (BEYAZ) 3 FARKLI RENK SEÇENEĞİ İLE",
+                "image": "https://mcdn01.gittigidiyor.net/52248/tn50/522486234_tn50_0.jpg",
+                "priceText": "299,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Tek Kişilik Yaylı Ekonomik 90x190 cm Star Yatak",
+                "image": "https://mcdn01.gittigidiyor.net/54525/tn50/545257201_tn50_0.jpg",
+                "priceText": "299,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Armut Koltuk Baton L Model Su Geçirmez Kumaş",
+                "image": "https://mcdn01.gittigidiyor.net/57951/tn50/579513543_tn50_0.jpg",
+                "priceText": "114,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Zenio Orion Bahçe Takımı Köşe Oturma Grubu Natural + Masa + Bank Siyah",
+                "image": "https://mcdn01.gittigidiyor.net/65306/tn50/653069185_tn50_0.jpg",
+                "priceText": "5.429,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "\"Mygusi\" Balkon, Bahçe - Metal Kanepe Koltuk Takımı - 2+1+1",
+                "image": "https://mcdn01.gittigidiyor.net/55331/tn50/553318336_tn50_0.jpg",
+                "priceText": "1.479,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Bez Dolap Mega Boy 12 Raflı 7 Renk Seçenekli",
+                "image": "https://mcdn01.gittigidiyor.net/53678/tn50/536785146_tn50_0.jpg",
+                "priceText": "149,90 TL",
+                "shippingFee": "NON-FREE"
+            },
+            {
+                "name": "POLEN OFİS KOLTUĞU, BİLGİSAYAR VE ÇALIŞMA SANDALYESİ, FİLELİ OFİS SANDALYESİ EN UYGUN FİYAT",
+                "image": "https://mcdn01.gittigidiyor.net/50988/tn50/509881605_tn50_0.jpg",
+                "priceText": "295,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "LARA 6 KAPILI 2 ÇEKMECELİ GARDIROP- CEVİZ BEYAZ",
+                "image": "https://mcdn01.gittigidiyor.net/65113/tn50/651138422_tn50_0.jpg",
+                "priceText": "1.367,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "DYG 5 Kapaklı Çok Amaçlı Mutfak Banyo Dolabı",
+                "image": "https://mcdn01.gittigidiyor.net/66356/tn50/663569084_tn50_0.jpg",
+                "priceText": "419,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Kaktüs Avm 6 Kişilik Masa Sandalye Takımı Banklı Mutfak Masası Takımı Yemek Masası Masa Takımı",
+                "image": "https://mcdn01.gittigidiyor.net/54932/tn50/549329973_tn50_0.jpg",
+                "priceText": "959,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Heyner Bahçe Balkon Teras Salıncağı Hamak Lüx Metal Salıncak",
+                "image": "https://mcdn01.gittigidiyor.net/70170/tn50/701700066_tn50_0.jpg",
+                "priceText": "979,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Tek Kapaklı 5 Raflı Çok Amaçlı Boy banyo Mutfak Dolabı Beyaz",
+                "image": "https://mcdn01.gittigidiyor.net/66477/tn50/664772805_tn50_0.jpg",
+                "priceText": "189,90 TL",
+                "shippingFee": "FREE"
+            }
+        ],
+        "Kozmetik & Kişisel Bakım > Sağlık, Medikal": [
+            {
+                "name": "Evony Elastik Kulaklı 3 Katlı Cerrahi Maske 250 Adet",
+                "image": "https://mcdn01.gittigidiyor.net/65048/tn50/650481341_tn50_0.jpg",
+                "priceText": "79,99 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Evony Black Elastik Kulaklı Siyah Maske 250 Adet",
+                "image": "https://mcdn01.gittigidiyor.net/66654/tn50/666546849_tn50_0.jpg",
+                "priceText": "79,99 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "F. Bosch Clever Tansiyon Aleti",
+                "image": "https://mcdn01.gittigidiyor.net/59807/tn50/598076310_tn50_0.jpg",
+                "priceText": "126,39 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Omron M2 Basic Tansiyon Aleti",
+                "image": "https://mcdn01.gittigidiyor.net/64007/tn50/640070115_tn50_0.jpg",
+                "priceText": "247,35 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Omron M2 Tansiyon Aleti",
+                "image": "https://mcdn01.gittigidiyor.net/62912/tn50/629126188_tn50_0.jpg",
+                "priceText": "298,96 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Dr. Mars Alkol Bazlı Antibakteriyel 5 lt El Dezenfektanı",
+                "image": "https://mcdn01.gittigidiyor.net/67768/tn50/677689014_tn50_0.jpg",
+                "priceText": "38,38 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Beurer BM 27 Tansiyon Aleti",
+                "image": "https://mcdn01.gittigidiyor.net/62299/tn50/622994093_tn50_0.jpg",
+                "priceText": "175,99 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Life Net WBP101 Tansiyon Aleti",
+                "image": "https://mcdn01.gittigidiyor.net/67024/tn50/670244775_tn50_0.jpg",
+                "priceText": "121,53 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Omron RS1 Tansiyon Aleti",
+                "image": "https://mcdn01.gittigidiyor.net/70177/tn50/701771933_tn50_0.jpg",
+                "priceText": "243,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Braun Exactfit 3 BUA6150 Tansiyon Aleti",
+                "image": "https://mcdn01.gittigidiyor.net/69733/tn50/697330854_tn50_0.jpg",
+                "priceText": "383,99 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Happy Yumuşak Elastik Kulaklı 3 Katlı Telli Yeşil Cerrahi Maske 200 lü",
+                "image": "https://mcdn01.gittigidiyor.net/64566/tn50/645666753_tn50_0.jpg",
+                "priceText": "52,99 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Acura AC-9080 Tansiyon Aleti",
+                "image": "https://mcdn01.gittigidiyor.net/68493/tn50/684931467_tn50_0.jpg",
+                "priceText": "131,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Are 3 Katlı Meltblown Ultrasonik 50'li 3 Paket Telli Cerrahi Yüz Maskesi",
+                "image": "https://mcdn01.gittigidiyor.net/63730/tn50/637309846_tn50_0.jpg",
+                "priceText": "97,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Canped Emici Külot Büyük Boy Large 60 Adet",
+                "image": "https://mcdn01.gittigidiyor.net/64996/tn50/649968407_tn50_0.jpg",
+                "priceText": "282,95 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Arnica 9011 Pempe Banyo Tartısı",
+                "image": "https://mcdn01.gittigidiyor.net/65250/tn50/652508383_tn50_0.jpg",
+                "priceText": "124,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Mastek Yuvarlak Şeffaf Dijital Cam Baskül Terazi 2003A",
+                "image": "https://mcdn01.gittigidiyor.net/66170/tn50/661700316_tn50_0.jpg",
+                "priceText": "49,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Flexilife Hasta Altı Bezi Serme Yatak Koruyucu 60x90 Cm 30 Lu 6 Paket 180 Kullanım",
+                "image": "https://mcdn01.gittigidiyor.net/69890/tn50/698903316_tn50_0.jpg",
+                "priceText": "209,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Polosmart PSC04 Dolmabahçe Yağ Ölçer Akıllı Bluetooth Tartı Baskül",
+                "image": "https://mcdn01.gittigidiyor.net/69389/tn50/693893861_tn50_0.jpg",
+                "priceText": "73,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Omron M3 Comfort Tansiyon Aleti",
+                "image": "https://mcdn01.gittigidiyor.net/70242/tn50/702428606_tn50_0.jpg",
+                "priceText": "399,24 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Omron M6 Comfort IT Tansiyon Aleti",
+                "image": "https://mcdn01.gittigidiyor.net/68732/tn50/687325965_tn50_0.jpg",
+                "priceText": "466,00 TL",
+                "shippingFee": "FREE"
+            }
+        ],
+        "Bilgisayar, Tablet > Dizüstü Bilgisayar (Laptop)": [
+            {
+                "name": "Monster Abra A5 V16.6.5 Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/63891/tn50/638915004_tn50_0.jpg",
+                "priceText": "7.499,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "MSI GF75 Thin 10SC-003XTR Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/68342/tn50/683423941_tn50_0.jpg",
+                "priceText": "12.744,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Asus D515DA-BR608 AMD Ryzen 3 3250U 4GB 256GB SSD FDOS 15.6 inc Taşınabilir Bilgisayar",
+                "image": "https://mcdn01.gittigidiyor.net/70356/tn50/703564485_tn50_0.jpg",
+                "priceText": "3.699,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "MSI Modern 14 B10MW-271XTR Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/67229/tn50/672296793_tn50_0.jpg",
+                "priceText": "8.462,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Monster Abra A7 V12.4.1 Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/62603/tn50/626039615_tn50_0.jpg",
+                "priceText": "9.399,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Asus X543MA-GQ1070 Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/69697/tn50/696975475_tn50_0.jpg",
+                "priceText": "2.699,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Asus ROG Strix G15 G513IH-HN002 Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/69763/tn50/697634843_tn50_0.jpg",
+                "priceText": "9.149,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Asus TUF Gaming F17 FX706LI-HX198 Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/67728/tn50/677287756_tn50_0.jpg",
+                "priceText": "9.589,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Acer Swift 3 SF314-42-R2FT NX.HSEEY.003 Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/59859/tn50/598594008_tn50_0.jpg",
+                "priceText": "4.799,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "HP 15s-fq2045nt 2N2N8EA Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/68206/tn50/682062738_tn50_0.jpg",
+                "priceText": "3.999,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "MSI Summit E14 A11SCST-223TR Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/67133/tn50/671331626_tn50_0.jpg",
+                "priceText": "18.055,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Hometech Alfa 590S 256GB SSD Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/64470/tn50/644704966_tn50_0.jpg",
+                "priceText": "3.849,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Hometech Alfa 450C Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/62467/tn50/624671193_tn50_0.jpg",
+                "priceText": "2.159,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Asus X515JF-EJ013 i5-1035G1 8GB RAM 512GB SSD 2GB MX130 15.6 inc FHD",
+                "image": "https://mcdn01.gittigidiyor.net/69192/tn50/691927731_tn50_0.jpg",
+                "priceText": "5.899,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Lenovo IdeaPad Gaming 3 82EY00D1TX Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/66040/tn50/660404018_tn50_0.jpg",
+                "priceText": "7.989,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Monster Abra A5 V16.5.2 Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/70253/tn50/702536713_tn50_0.jpg",
+                "priceText": "7.499,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Asus ROG Strix G15 G513QE-HN044 Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/69677/tn50/696770367_tn50_0.jpg",
+                "priceText": "13.499,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "HP Pavilion Gaming 16-a0018nt 3Y4V0EA Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/70101/tn50/701011627_tn50_0.jpg",
+                "priceText": "10.999,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "HP 15-dk0018nt 8UF66EA Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/60195/tn50/601954324_tn50_0.jpg",
+                "priceText": "9.999,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Hometech Alfa 110A Dizüstü Bilgisayar (Laptop)",
+                "image": "https://mcdn01.gittigidiyor.net/69326/tn50/693261402_tn50_0.jpg",
+                "priceText": "1.299,00 TL",
+                "shippingFee": "NON-FREE"
+            }
+        ],
+        "Beyaz Eşya & Küçük Ev Aletleri > Isıtma, Soğutma Sistemi": [
+            {
+                "name": "Raks Eco Jasper Vantilatör",
+                "image": "https://mcdn01.gittigidiyor.net/57149/tn50/571494451_tn50_0.jpg",
+                "priceText": "229,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Windsor WST 65 E TERMOSİFON",
+                "image": "https://mcdn01.gittigidiyor.net/68054/tn50/680549645_tn50_0.jpg",
+                "priceText": "849,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Rubenis RBA 05 Vantilatör",
+                "image": "https://mcdn01.gittigidiyor.net/66498/tn50/664980893_tn50_0.jpg",
+                "priceText": "148,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Altus ALK 1230 Klima",
+                "image": "https://mcdn01.gittigidiyor.net/70354/tn50/703540699_tn50_0.jpg",
+                "priceText": "3.695,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Baymak Lambert Attivo 24 LN Kombi",
+                "image": "https://mcdn01.gittigidiyor.net/59238/tn50/592383220_tn50_0.jpg",
+                "priceText": "3.849,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Briz FAW-20R Vantilatör",
+                "image": "https://mcdn01.gittigidiyor.net/57185/tn50/571850083_tn50_0.jpg",
+                "priceText": "564,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Baymak Elegant Plus 12  Klima",
+                "image": "https://mcdn01.gittigidiyor.net/55412/tn50/554128327_tn50_0.jpg",
+                "priceText": "4.289,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Arzum AR062 Windart Eco Vantilatör",
+                "image": "https://mcdn01.gittigidiyor.net/64758/tn50/647587666_tn50_0.jpg",
+                "priceText": "293,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Bosch Condense 2300i 24/28 C 23 Kombi",
+                "image": "https://mcdn01.gittigidiyor.net/64651/tn50/646512690_tn50_0.jpg",
+                "priceText": "5.606,20 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Demirdöküm Kion 12 Klima",
+                "image": "https://mcdn01.gittigidiyor.net/56525/tn50/565250221_tn50_0.jpg",
+                "priceText": "4.070,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Baymak Aqua Konfor 65 litre Termoboyler",
+                "image": "https://mcdn01.gittigidiyor.net/47190/tn50/471900623_tn50_0.jpg",
+                "priceText": "1.406,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Luxell LXF-285 Vantilatör",
+                "image": "https://mcdn01.gittigidiyor.net/69088/tn50/690889590_tn50_0.jpg",
+                "priceText": "159,50 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Raks SF 16 Eco Plus Vantilatör",
+                "image": "https://mcdn01.gittigidiyor.net/58024/tn50/580243303_tn50_0.jpg",
+                "priceText": "254,90 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Demirdöküm Atromix P 24 Kombi",
+                "image": "https://mcdn01.gittigidiyor.net/70382/tn50/703827335_tn50_0.jpg",
+                "priceText": "4.519,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Nefes Deniz Elektrikli Banyo Şofbeni",
+                "image": "https://mcdn01.gittigidiyor.net/64755/tn50/647551557_tn50_0.jpg",
+                "priceText": "127,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Raks PF 32 Dekoratif Lambalı Tavan Vantilatörü Açık Kahverengi",
+                "image": "https://mcdn01.gittigidiyor.net/64758/tn50/647580974_tn50_0.jpg",
+                "priceText": "599,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Aydın Derya Artemis Şofben",
+                "image": "https://mcdn01.gittigidiyor.net/64668/tn50/646681680_tn50_0.jpg",
+                "priceText": "159,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "DEMIRDOKUM DT4 D 65-Dijital Termosifon",
+                "image": "https://mcdn01.gittigidiyor.net/68992/tn50/689924398_tn50_0.jpg",
+                "priceText": "1.600,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Buderus Logamax Plus GB062 24  Kombi",
+                "image": "https://mcdn01.gittigidiyor.net/62596/tn50/625967653_tn50_0.jpg",
+                "priceText": "5.669,00 TL",
+                "shippingFee": "FREE"
+            },
+            {
+                "name": "Airfel LPCY35BM 12 Klima",
+                "image": "https://mcdn01.gittigidiyor.net/70133/tn50/701330854_tn50_0.jpg",
+                "priceText": "2.829,00 TL",
+                "shippingFee": "FREE"
+            }
+        ]
+    }
+
+}

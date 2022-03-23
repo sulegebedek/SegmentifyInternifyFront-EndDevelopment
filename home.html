@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
+    <title>Anasayfa</title>
+</head>
+
+<body>
+    <div class="home">
+        <h2>Sizin için seçtiklerimiz</h2>
+        <div class="navbar">
+            <ul class="myMenu">
+                <li><button class="menu active" href="" onclick="category('Size Özel')">Size Özel</button></li>
+                <li><button class="menu" href="" onclick="category('Yapı Market & Tamirat > Tamir, Tadilat Gereçleri')">Tamir, Tadilat Gereçleri</button></li>
+                <li><button class="menu" href="" onclick="category('Ev, Dekorasyon, Bahçe > Mobilya')">Mobilya</button></li>
+                <li><button class="menu" href="" onclick="category('Kozmetik & Kişisel Bakım > Sağlık, Medikal')">Sağlık, Medikal</button></li>
+                <li><button class="menu" href="" onclick="category('Bilgisayar, Tablet > Dizüstü Bilgisayar (Laptop)')">Dizüstü Bilgisayar(Laptop)</button></li>
+                <li><button class="menu" href="" onclick="category('Beyaz Eşya & Küçük Ev Aletleri > Isıtma, Soğutma Sistemi')">Isıtma,Soğutma Sistemi</button></li>
+            </ul>
+        </div>
+        <div class="myProducts">
+            <a id="prev" class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün1</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün2</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product active">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün3</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product active">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün4</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product active">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün5</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product active">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün6</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün1</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün1</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün1</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün1</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün1</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün1</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün1</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün1</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün1</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün1</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün1</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün1</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün1</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+            <div class="products">
+                <div class="product">
+                    <a href="#"><img class="images" src="#" loading="lazy"></a>
+                    <h4 class="names">Ürün1</h4>
+                    <h5 class="prices">200,00 TL</h5>
+                    <div class="shippingFee">
+                        <h6><i class='bx bxs-truck'></i> Ücretsiz Kargo</h6>
+                    </div>
+                    <p class="bosluk">&nbsp;</p>
+                    <a href="#" class="sepeteEkle" onclick="addCart()">Sepete Ekle</a>
+                </div>
+            </div>
+
+
+        </div>
+        <a id="next" class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+
+    <div id="alert" class="alert">
+        <span id="alert_close" class="closebtn">&times;</span>
+        <div class="check"><i class='bx bxs-check-circle'></i></div>
+        <div class="text">
+            <h3>Ürün sepete eklendi.</h3>
+            <a href="#">Sepete Git</a>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+    </body>
+
+</html>
